@@ -1,0 +1,7 @@
+Se crea este archivo unicamente por la razon que no se pudo acceder al repositorio
+con esto generamos un respaldo y nos sirve para la entrega de la tarea.
+
+Para esta clase se realizaran 3 tareas 
+1.- lista de radio.
+2.- editor de texto.
+3.- mesa de ayuda.
